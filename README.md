@@ -6,5 +6,5 @@ validates it, and stores it in PostgreSQL.
 
 
 ## Tech Stack
-Python · Apache Kafka · PostgreSQL · Docker Compose
+Python · Apache Kafka · PostgreSQL · Docker Compose · Grafana
 
